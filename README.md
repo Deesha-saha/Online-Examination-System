@@ -1,1 +1,2 @@
 # Online-Examination-System
+This code provides a basic structure for an online examination system with a GUI using Java's Swing library. It includes login functionality, profile, and password update, selecting answers for MCQs (using the provided science-related questions), timer, and auto-submit. You will need to implement the necessary logic for handling user authentication, database integration, and any additional features or customizations required.
